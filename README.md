@@ -3,4 +3,4 @@
 A new Flutter project.
 
 ## Getting Started
-F
+Foi um projeto em que busquei atingir as melhores praticas para a manutenabilidade do código.
